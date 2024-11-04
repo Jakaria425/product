@@ -1,8 +1,8 @@
 [
     {
-        "product_id": "P001",
-        "product_title": "Smartphone X",
-        "product_image": "https://example.com/images/smartphoneX.jpg",
+        "product_id": 1,
+        "product_title": "Iphone X",
+        "product_image": "https://ae01.alicdn.com/kf/S4023a0cdc5f84856a68eb388c38b0ce0c.jpg_960x960.jpg",
         "category": "phone",
         "price": 699.99,
         "offer_percent": 15,
@@ -17,7 +17,7 @@
         "rating": 4.7
     },
     {
-        "product_id": "P002",
+        "product_id": 2,
         "product_title": "Smartphone Y",
         "product_image": "https://example.com/images/smartphoneY.jpg",
         "category": "phone",
@@ -34,9 +34,9 @@
         "rating": 4.8
     },
     {
-        "product_id": "P003",
-        "product_title": "Budget Phone Z",
-        "product_image": "https://example.com/images/phoneZ.jpg",
+        "product_id": 3,
+        "product_title": "Samsung galaxy Z",
+        "product_image": "https://www.classic-phones.com/cdn/shop/products/galaxy-z-fold4-11.jpg?v=1666722482&width=1000",
         "category": "phone",
         "price": 299.99,
         "offer_percent": 20,
@@ -44,16 +44,16 @@
         "Specification": [
             "6.0-inch LCD display",
             "Dual-lens camera",
-            "64GB storage",
-            "4G compatible"
+            "512GB storage",
+            "5G compatible"
         ],
         "availability": true,
         "rating": 4.3
     },
     {
-        "product_id": "L001",
+        "product_id": 4,
         "product_title": "Gaming Laptop Z",
-        "product_image": "https://example.com/images/laptopZ.jpg",
+        "product_image": "https://m.media-amazon.com/images/I/61Z-zUr9WNL._AC_UF894,1000_QL80_.jpg",
         "category": "laptop",
         "price": 1199.99,
         "offer_percent": 20,
@@ -68,9 +68,9 @@
         "rating": 4.6
     },
     {
-        "product_id": "L002",
+        "product_id": 5,
         "product_title": "Ultrabook Slim",
-        "product_image": "https://example.com/images/ultrabookSlim.jpg",
+        "product_image": "https://www.custommacbd.com/cdn/shop/products/dell-xps-17-9720-silver-custom-mac-bd_17ba1f1a-e143-4da0-8381-86f41fb68fee.png?v=1656157489",
         "category": "laptop",
         "price": 999.99,
         "offer_percent": 15,
@@ -85,9 +85,9 @@
         "rating": 4.5
     },
     {
-        "product_id": "L003",
-        "product_title": "Student Laptop",
-        "product_image": "https://example.com/images/studentLaptop.jpg",
+        "product_id": 6,
+        "product_title": "Acer Aspire 5 (2020)",
+        "product_image": "https://www.digitaltrends.com/wp-content/uploads/2021/06/acer-chromebook-spin-15-2021.jpg?fit=720%2C720&p=1",
         "category": "laptop",
         "price": 499.99,
         "offer_percent": 10,
@@ -102,9 +102,9 @@
         "rating": 4.2
     },
     {
-        "product_id": "M001",
+        "product_id": 7,
         "product_title": "MacBook Pro M1",
-        "product_image": "https://example.com/images/macbookProM1.jpg",
+        "product_image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg",
         "category": "macbook",
         "price": 1499.99,
         "offer_percent": 10,
@@ -119,9 +119,9 @@
         "rating": 4.9
     },
     {
-        "product_id": "M002",
+        "product_id": 8,
         "product_title": "MacBook Air M2",
-        "product_image": "https://example.com/images/macbookAirM2.jpg",
+        "product_image": "https://techcrunch.com/wp-content/uploads/2016/11/img_3198.jpg",
         "category": "macbook",
         "price": 1299.99,
         "offer_percent": 5,
@@ -136,9 +136,9 @@
         "rating": 4.8
     },
     {
-        "product_id": "M003",
+        "product_id": 9,
         "product_title": "MacBook Pro 16 M1",
-        "product_image": "https://example.com/images/macbookPro16M1.jpg",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0_7-e2yMypEtYUL331Tl4c-9rM93y2CkEyU4aC_CKtIGW2SVj70r1h2Bj5wUmi9_Ywg&usqp=CAU",
         "category": "macbook",
         "price": 2499.99,
         "offer_percent": 8,
@@ -153,9 +153,9 @@
         "rating": 4.9
     },
     {
-        "product_id": "S001",
-        "product_title": "Smartwatch Ultra",
-        "product_image": "https://example.com/images/smartwatchUltra.jpg",
+        "product_id": 10,
+        "product_title": "Samsung Galaxy S23 Ultra ",
+        "product_image": "https://images.samsung.com/is/image/samsung/assets/sa_en/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-kv.jpg?$ORIGIN_JPG$",
         "category": "smartwatch",
         "price": 299.99,
         "offer_percent": 5,
@@ -170,9 +170,9 @@
         "rating": 4.4
     },
     {
-        "product_id": "S002",
+        "product_id": 11,
         "product_title": "Fitness Watch 2",
-        "product_image": "https://example.com/images/fitnessWatch2.jpg",
+        "product_image": "https://cdn.shopify.com/s/files/1/0604/8553/3881/files/W2_3_1.jpg?v=1636699342",
         "category": "smartwatch",
         "price": 199.99,
         "offer_percent": 10,
@@ -187,9 +187,9 @@
         "rating": 4.3
     },
     {
-        "product_id": "S003",
+        "product_id": 12,
         "product_title": "Luxury Smartwatch Gold",
-        "product_image": "https://example.com/images/luxurySmartwatch.jpg",
+        "product_image": "https://m.media-amazon.com/images/I/71YK1aVAmpL.jpg",
         "category": "smartwatch",
         "price": 499.99,
         "offer_percent": 12,
@@ -204,9 +204,9 @@
         "rating": 4.6
     },
     {
-        "product_id": "A001",
-        "product_title": "Wireless Earbuds Pro",
-        "product_image": "https://example.com/images/earbudsPro.jpg",
+        "product_id": 13,
+        "product_title": "Earbuds Pro",
+        "product_image": "https://d61s2hjse0ytn.cloudfront.net/product-image/719/WiWU_Airbuds_Pro_2F.webp",
         "category": "accessories",
         "price": 129.99,
         "offer_percent": 25,
@@ -221,9 +221,9 @@
         "rating": 4.8
     },
     {
-        "product_id": "A002",
+        "product_id": 14,
         "product_title": "Portable Charger 10000mAh",
-        "product_image": "https://example.com/images/portableCharger.jpg",
+        "product_image": "https://m.media-amazon.com/images/I/61Vnm8O7EgL.jpg",
         "category": "accessories",
         "price": 29.99,
         "offer_percent": 15,
@@ -238,7 +238,7 @@
         "rating": 4.7
     },
     {
-        "product_id": "A003",
+        "product_id": 16,
         "product_title": "Bluetooth Speaker Mini",
         "product_image": "https://example.com/images/bluetoothSpeaker.jpg",
         "category": "accessories",
